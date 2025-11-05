@@ -1,0 +1,1253 @@
+[{
+      "label": "C-Suite",
+      "level": 0,
+      "value": "c_suite"
+    },
+    {
+      "label": "Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "executive"
+    },
+    {
+      "label": "Finance Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "finance_executive"
+    },
+    {
+      "label": "Founder",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "founder"
+    },
+    {
+      "label": "Human Resources Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "human_resources_executive"
+    },
+    {
+      "label": "Information Technology Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "information_technology_executive"
+    },
+    {
+      "label": "Legal Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "legal_executive"
+    },
+    {
+      "label": "Marketing Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "marketing_executive"
+    },
+    {
+      "label": "Medical & Health Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "medical_health_executive"
+    },
+    {
+      "label": "Operations Executive",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "operations_executive"
+    },
+    {
+      "label": "Sales Leader",
+      "level": 1,
+      "parent": "c_suite",
+      "value": "sales_executive"
+    },
+    {
+      "label": "Product",
+      "level": 0,
+      "value": "product_management"
+    },
+    {
+      "label": "Product Development",
+      "level": 1,
+      "parent": "product_management",
+      "value": "product_development"
+    },
+    {
+      "label": "Product Management",
+      "level": 1,
+      "parent": "product_management",
+      "value": "product_mangement"
+    },
+    {
+      "label": "Engineering & Technical",
+      "level": 0,
+      "value": "master_engineering_technical"
+    },
+    {
+      "label": "Artificial Intelligence / Machine Learning",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "artificial_intelligence_machine_learning"
+    },
+    {
+      "label": "Bioengineering",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "bioengineering"
+    },
+    {
+      "label": "Biometrics",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "biometrics"
+    },
+    {
+      "label": "Business Intelligence",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "business_intelligence"
+    },
+    {
+      "label": "Chemical Engineering",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "chemical_engineering"
+    },
+    {
+      "label": "Cloud / Mobility",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "cloud_mobility"
+    },
+    {
+      "label": "Data Science",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "data_science"
+    },
+    {
+      "label": "DevOps",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "devops"
+    },
+    {
+      "label": "Digital Transformation",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "digital_transformation"
+    },
+    {
+      "label": "Emerging Technology / Innovation",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "emerging_technology_innovation"
+    },
+    {
+      "label": "Engineering & Technical",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "engineering_technical"
+    },
+    {
+      "label": "Industrial Engineering",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "industrial_engineering"
+    },
+    {
+      "label": "Mechanic",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "mechanic"
+    },
+    {
+      "label": "Mobile Development",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "mobile_development"
+    },
+    {
+      "label": "Project Management",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "project_management"
+    },
+    {
+      "label": "Research & Development",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "research_development"
+    },
+    {
+      "label": "Scrum Master / Agile Coach",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "scrum_master_agile_coach"
+    },
+    {
+      "label": "Software Development",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "software_development"
+    },
+    {
+      "label": "Support / Technical Services",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "support_technical_services"
+    },
+    {
+      "label": "Technician",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "technician"
+    },
+    {
+      "label": "Technology Operations",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "technology_operations"
+    },
+    {
+      "label": "Test / Quality Assurance",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "test_quality_assurance"
+    },
+    {
+      "label": "UI / UX",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "ui_ux"
+    },
+    {
+      "label": "Web Development",
+      "level": 1,
+      "parent": "master_engineering_technical",
+      "value": "web_development"
+    },
+    {
+      "label": "Design",
+      "level": 0,
+      "value": "design"
+    },
+    {
+      "label": "All Design",
+      "level": 1,
+      "parent": "design",
+      "value": "all_design"
+    },
+    {
+      "label": "Product or UI/UX Design",
+      "level": 1,
+      "parent": "design",
+      "value": "product_ui_ux_design"
+    },
+    {
+      "label": "Graphic / Visual / Brand Design",
+      "level": 1,
+      "parent": "design",
+      "value": "graphic_design"
+    },
+    {
+      "label": "Education",
+      "level": 0,
+      "value": "education"
+    },
+    {
+      "label": "Teacher",
+      "level": 1,
+      "parent": "education",
+      "value": "teacher"
+    },
+    {
+      "label": "Principal",
+      "level": 1,
+      "parent": "education",
+      "value": "principal"
+    },
+    {
+      "label": "Superintendent",
+      "level": 1,
+      "parent": "education",
+      "value": "superintendent"
+    },
+    {
+      "label": "Professor",
+      "level": 1,
+      "parent": "education",
+      "value": "professor"
+    },
+    {
+      "label": "Finance",
+      "level": 0,
+      "value": "master_finance"
+    },
+    {
+      "label": "Accounting",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "accounting"
+    },
+    {
+      "label": "Finance",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "finance"
+    },
+    {
+      "label": "Financial Planning & Analysis",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "financial_planning_analysis"
+    },
+    {
+      "label": "Financial Reporting",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "financial_reporting"
+    },
+    {
+      "label": "Financial Strategy",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "financial_strategy"
+    },
+    {
+      "label": "Financial Systems",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "financial_systems"
+    },
+    {
+      "label": "Internal Audit & Control",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "internal_audit_control"
+    },
+    {
+      "label": "Investor Relations",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "investor_relations"
+    },
+    {
+      "label": "Mergers & Acquisitions",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "mergers_acquisitions"
+    },
+    {
+      "label": "Real Estate Finance",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "real_estate_finance"
+    },
+    {
+      "label": "Financial Risk",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "financial_risk"
+    },
+    {
+      "label": "Shared Services",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "shared_services"
+    },
+    {
+      "label": "Sourcing / Procurement",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "sourcing_procurement"
+    },
+    {
+      "label": "Tax",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "tax"
+    },
+    {
+      "label": "Treasury",
+      "level": 1,
+      "parent": "master_finance",
+      "value": "treasury"
+    },
+    {
+      "label": "Human Resources",
+      "level": 0,
+      "value": "master_human_resources"
+    },
+    {
+      "label": "Compensation & Benefits",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "compensation_benefits"
+    },
+    {
+      "label": "Culture, Diversity & Inclusion",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "culture_diversity_inclusion"
+    },
+    {
+      "label": "Employee & Labor Relations",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "employee_labor_relations"
+    },
+    {
+      "label": "Health & Safety",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "health_safety"
+    },
+    {
+      "label": "Human Resource Information System",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "human_resource_information_system"
+    },
+    {
+      "label": "Human Resources",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "human_resources"
+    },
+    {
+      "label": "HR Business Partner",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "hr_business_partner"
+    },
+    {
+      "label": "Learning & Development",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "learning_development"
+    },
+    {
+      "label": "Organizational Development",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "organizational_development"
+    },
+    {
+      "label": "Recruiting & Talent Acquisition",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "recruiting_talent_acquisition"
+    },
+    {
+      "label": "Talent Management",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "talent_management"
+    },
+    {
+      "label": "Workforce Management",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "workforce_mangement"
+    },
+    {
+      "label": "People Operations",
+      "level": 1,
+      "parent": "master_human_resources",
+      "value": "people_operations"
+    },
+    {
+      "label": "Information Technology",
+      "level": 0,
+      "value": "master_information_technology"
+    },
+    {
+      "label": "Application Development",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "application_development"
+    },
+    {
+      "label": "Business Service Management / ITSM",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "business_service_management_itsm"
+    },
+    {
+      "label": "Collaboration & Web App",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "collaboration_web_app"
+    },
+    {
+      "label": "Data Center",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "data_center"
+    },
+    {
+      "label": "Data Warehouse",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "data_warehouse"
+    },
+    {
+      "label": "Database Administration",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "database_administration"
+    },
+    {
+      "label": "eCommerce Development",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "ecommerce_development"
+    },
+    {
+      "label": "Enterprise Architecture",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "enterprise_architecture"
+    },
+    {
+      "label": "Help Desk / Desktop Services",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "help_desk_desktop_services"
+    },
+    {
+      "label": "HR / Financial / ERP Systems",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "hr_financial_erp_systems"
+    },
+    {
+      "label": "Information Security",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "information_security"
+    },
+    {
+      "label": "Information Technology",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "information_technology"
+    },
+    {
+      "label": "Infrastructure",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "infrastructure"
+    },
+    {
+      "label": "IT Asset Management",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_asset_management"
+    },
+    {
+      "label": "IT Audit / IT Compliance",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_audit_it_compliance"
+    },
+    {
+      "label": "IT Operations",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_operations"
+    },
+    {
+      "label": "IT Procurement",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_procurement"
+    },
+    {
+      "label": "IT Strategy",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_strategy"
+    },
+    {
+      "label": "IT Training",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "it_training"
+    },
+    {
+      "label": "Networking",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "networking"
+    },
+    {
+      "label": "Project & Program Management",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "project_program_management"
+    },
+    {
+      "label": "Quality Assurance",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "quality_assurance"
+    },
+    {
+      "label": "Retail / Store Systems",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "retail_store_systems"
+    },
+    {
+      "label": "Servers",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "servers"
+    },
+    {
+      "label": "Storage & Disaster Recovery",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "storage_disaster_recovery"
+    },
+    {
+      "label": "Telecommunications",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "telecommunications"
+    },
+    {
+      "label": "Virtualization",
+      "level": 1,
+      "parent": "master_information_technology",
+      "value": "virtualization"
+    },
+    {
+      "label": "Legal",
+      "level": 0,
+      "value": "master_legal"
+    },
+    {
+      "label": "Acquisitions",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "acquisitions"
+    },
+    {
+      "label": "Compliance",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "compliance"
+    },
+    {
+      "label": "Contracts",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "contracts"
+    },
+    {
+      "label": "Corporate Secretary",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "corporate_secretary"
+    },
+    {
+      "label": "eDiscovery",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "ediscovery"
+    },
+    {
+      "label": "Ethics",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "ethics"
+    },
+    {
+      "label": "Governance",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "governance"
+    },
+    {
+      "label": "Governmental Affairs & Regulatory Law",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "governmental_affairs_regulatory_law"
+    },
+    {
+      "label": "Intellectual Property & Patent",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "intellectual_property_patent"
+    },
+    {
+      "label": "Labor & Employment",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "labor_employment"
+    },
+    {
+      "label": "Lawyer / Attorney",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "lawyer_attorney"
+    },
+    {
+      "label": "Legal",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "legal"
+    },
+    {
+      "label": "Legal Counsel",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "legal_counsel"
+    },
+    {
+      "label": "Legal Operations",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "legal_operations"
+    },
+    {
+      "label": "Litigation",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "litigation"
+    },
+    {
+      "label": "Privacy",
+      "level": 1,
+      "parent": "master_legal",
+      "value": "privacy"
+    },
+    {
+      "label": "Marketing",
+      "level": 0,
+      "value": "master_marketing"
+    },
+    {
+      "label": "Advertising",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "advertising"
+    },
+    {
+      "label": "Brand Management",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "brand_management"
+    },
+    {
+      "label": "Content Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "content_marketing"
+    },
+    {
+      "label": "Customer Experience",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "customer_experience"
+    },
+    {
+      "label": "Customer Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "customer_marketing"
+    },
+    {
+      "label": "Demand Generation",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "demand_generation"
+    },
+    {
+      "label": "Digital Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "digital_marketing"
+    },
+    {
+      "label": "eCommerce Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "ecommerce_marketing"
+    },
+    {
+      "label": "Event Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "event_marketing"
+    },
+    {
+      "label": "Field Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "field_marketing"
+    },
+    {
+      "label": "Lead Generation",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "lead_generation"
+    },
+    {
+      "label": "Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "marketing"
+    },
+    {
+      "label": "Marketing Analytics / Insights",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "marketing_analytics_insights"
+    },
+    {
+      "label": "Marketing Communications",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "marketing_communications"
+    },
+    {
+      "label": "Marketing Operations",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "marketing_operations"
+    },
+    {
+      "label": "Product Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "product_marketing"
+    },
+    {
+      "label": "Public Relations",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "public_relations"
+    },
+    {
+      "label": "Search Engine Optimization / Pay Per Click",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "search_engine_optimization_pay_per_click"
+    },
+    {
+      "label": "Social Media Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "social_media_marketing"
+    },
+    {
+      "label": "Strategic Communications",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "strategic_communications"
+    },
+    {
+      "label": "Technical Marketing",
+      "level": 1,
+      "parent": "master_marketing",
+      "value": "technical_marketing"
+    },
+    {
+      "label": "Medical & Health",
+      "level": 0,
+      "value": "medical_health"
+    },
+    {
+      "label": "Anesthesiology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "anesthesiology"
+    },
+    {
+      "label": "Chiropractics",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "chiropractics"
+    },
+    {
+      "label": "Clinical Systems",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "clinical_systems"
+    },
+    {
+      "label": "Dentistry",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "dentistry"
+    },
+    {
+      "label": "Dermatology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "dermatology"
+    },
+    {
+      "label": "Doctors / Physicians",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "doctors_physicians"
+    },
+    {
+      "label": "Epidemiology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "epidemiology"
+    },
+    {
+      "label": "First Responder",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "first_responder"
+    },
+    {
+      "label": "Infectious Disease",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "infectious_disease"
+    },
+    {
+      "label": "Medical Administration",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "medical_administration"
+    },
+    {
+      "label": "Medical Education & Training",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "medical_education_training"
+    },
+    {
+      "label": "Medical Research",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "medical_research"
+    },
+    {
+      "label": "Medicine",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "medicine"
+    },
+    {
+      "label": "Neurology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "neurology"
+    },
+    {
+      "label": "Nursing",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "nursing"
+    },
+    {
+      "label": "Nutrition & Dietetics",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "nutrition_dietetics"
+    },
+    {
+      "label": "Obstetrics / Gynecology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "obstetrics_gynecology"
+    },
+    {
+      "label": "Oncology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "oncology"
+    },
+    {
+      "label": "Opthalmology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "opthalmology"
+    },
+    {
+      "label": "Optometry",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "optometry"
+    },
+    {
+      "label": "Orthopedics",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "orthopedics"
+    },
+    {
+      "label": "Pathology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "pathology"
+    },
+    {
+      "label": "Pediatrics",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "pediatrics"
+    },
+    {
+      "label": "Pharmacy",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "pharmacy"
+    },
+    {
+      "label": "Physical Therapy",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "physical_therapy"
+    },
+    {
+      "label": "Psychiatry",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "psychiatry"
+    },
+    {
+      "label": "Psychology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "psychology"
+    },
+    {
+      "label": "Public Health",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "public_health"
+    },
+    {
+      "label": "Radiology",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "radiology"
+    },
+    {
+      "label": "Social Work",
+      "level": 1,
+      "parent": "medical_health",
+      "value": "social_work"
+    },
+    {
+      "label": "Operations",
+      "level": 0,
+      "value": "master_operations"
+    },
+    {
+      "label": "Call Center",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "call_center"
+    },
+    {
+      "label": "Construction",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "construction"
+    },
+    {
+      "label": "Corporate Strategy",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "corporate_strategy"
+    },
+    {
+      "label": "Customer Service / Support",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "customer_service_support"
+    },
+    {
+      "label": "Enterprise Resource Planning",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "enterprise_resource_planning"
+    },
+    {
+      "label": "Facilities Management",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "facilities_management"
+    },
+    {
+      "label": "Leasing",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "leasing"
+    },
+    {
+      "label": "Logistics",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "logistics"
+    },
+    {
+      "label": "Office Operations",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "office_operations"
+    },
+    {
+      "label": "Operations",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "operations"
+    },
+    {
+      "label": "Physical Security",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "physical_security"
+    },
+    {
+      "label": "Project Development",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "project_development"
+    },
+    {
+      "label": "Quality Management",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "quality_management"
+    },
+    {
+      "label": "Real Estate",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "real_estate"
+    },
+    {
+      "label": "Safety",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "safety"
+    },
+    {
+      "label": "Store Operations",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "store_operations"
+    },
+    {
+      "label": "Supply Chain",
+      "level": 1,
+      "parent": "master_operations",
+      "value": "supply_chain"
+    },
+    {
+      "label": "Sales",
+      "level": 0,
+      "value": "master_sales"
+    },
+    {
+      "label": "Account Management",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "account_management"
+    },
+    {
+      "label": "Business Development",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "business_development"
+    },
+    {
+      "label": "Channel Sales",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "channel_sales"
+    },
+    {
+      "label": "Customer Retention & Development",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "customer_retention_development"
+    },
+    {
+      "label": "Customer Success",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "customer_success"
+    },
+    {
+      "label": "Field / Outside Sales",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "field_outside_sales"
+    },
+    {
+      "label": "Inside Sales",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "inside_sales"
+    },
+    {
+      "label": "Partnerships",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "partnerships"
+    },
+    {
+      "label": "Revenue Operations",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "revenue_operations"
+    },
+    {
+      "label": "Sales",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "sales"
+    },
+    {
+      "label": "Sales Enablement",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "sales_enablement"
+    },
+    {
+      "label": "Sales Engineering",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "sales_engineering"
+    },
+    {
+      "label": "Sales Operations",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "sales_operations"
+    },
+    {
+      "label": "Sales Training",
+      "level": 1,
+      "parent": "master_sales",
+      "value": "sales_training"
+    },
+    {
+      "label": "Consulting",
+      "level": 0,
+      "value": "consulting"
+    },
+    {
+      "label": "Consultant",
+      "level": 1,
+      "parent": "consulting",
+      "value": "consultant"
+    }
+  ]
