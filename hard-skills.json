@@ -185,28 +185,6 @@
     ]
   },
   {
-    "category": "Business Concepts & Methodologies",
-    "tools": [
-      { "name": "Agile", "alternatives": ["Agile Methodology", "Agile Development"], "company": ["general methodology"], "logo": ["method_logo"], "caseSensitive": [false] },
-      { "name": "B2B", "alternatives": ["Business-to-Business"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "B2C", "alternatives": ["Business-to-Consumer", "DTC (Direct-to-Consumer)"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "Budget Management", "alternatives": ["Financial Planning"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [false] },
-      { "name": "Customer Service", "alternatives": ["Client Relations", "Customer Support"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [false] },
-      { "name": "IaaS", "alternatives": ["Infrastructure as a Service", "AWS", "Azure", "GCP"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "KPIs", "alternatives": ["Key Performance Indicators", "Metrics Tracking"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "Kanban", "alternatives": ["Kanban Board"], "company": ["general methodology"], "logo": ["method_logo"], "caseSensitive": [false] },
-      { "name": "Lead Generation", "alternatives": ["Lead Gen", "Prospecting", "Demand Generation"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [false] },
-      { "name": "PaaS", "alternatives": ["Platform as a Service"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "Regulatory Compliance", "alternatives": ["GDPR", "HIPAA", "SOX"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "Reporting", "alternatives": ["Data Reporting", "Business Intelligence (BI)", "Dashboards"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [true] },
-      { "name": "SaaS", "alternatives": ["Software as a Service", "Subscription Model"], "company": ["general concept"], "logo": ["concept_logo"], "caseSensitive": [true] },
-      { "name": "Scrum", "alternatives": ["Scrum Master", "Sprint Planning"], "company": ["general methodology"], "logo": ["method_logo"], "caseSensitive": [false] },
-      { "name": "SEM", "alternatives": ["Search Engine Marketing", "PPC (Pay-Per-Click)"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [true] },
-      { "name": "SEO", "alternatives": ["Search Engine Optimization"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [true] },
-      { "name": "Social Media Marketing", "alternatives": ["SMM", "Paid Social"], "company": ["general skill"], "logo": ["skill_logo"], "caseSensitive": [true] }
-    ]
-  },
-  {
     "category": "Project Management & Agile",
     "tools": [
       { "name": "Asana", "alternatives": [], "company": ["asana.com"], "logo": ["asana_logo"], "caseSensitive": [false] },
